@@ -1,5 +1,5 @@
-- - ERROR -
-- Loading...
+-   - ERROR -
+-    Loading...
 - [ Please Wait ]
 <!---
 Fancy1i/Fancy1i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
